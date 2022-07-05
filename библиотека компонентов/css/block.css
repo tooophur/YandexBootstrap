@@ -5,13 +5,13 @@
 .block_label {
 	
 	font-style: normal;
-	font-weight: 600;
+	font-weight: 00;
 	font-size: 20px;
 	color: #0F172A;
 }
 
 .cell_drag {
-	padding: 19px 0px 19px 0px;
+	padding: 19px 0px 19 px 0px;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
